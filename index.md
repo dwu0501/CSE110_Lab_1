@@ -1,43 +1,46 @@
-# Lab Part 3
+# About Me (Lab Part 3)
 
 ## Picture
-![Picture of CSE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQKJwhyQzxNzDpMv2ZMlweurJPA3MMOjjTg&s)
+![Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeEbu9D491NqVgjRdntnRPYB58sd_smSAzCA&s)
 
 ## Styling Text
-welcome to ~~CSE 110~~ SWE.
+I’m **Daniel** and I love coding. Making an *index.md* file on ~~CSE 110~~ SWE.
 
 ## Quoting Text
-> Gordon Ramsey is not afrid of Mc Donalds'
+> "Gordon Ramsey is not afraid of Mc Donalds'"
 
 ## Quoting Code
 ```
 for(!order):
     list.bogosort()
 ```
+
 ## External Links
-The repo is [here](https://github.com/dwu0501/CSE110_Lab_1/)
+My GitHub repo is [here](https://github.com/dwu0501/CSE110_Lab_1/).
 
 ## Section Links
-Link to the the [header](#lab-part-3).
+Jump back to the [top](#about-me-lab-part-3).
 
 ## Relative Links
-Link to the [README](README.md)
+This repo's [README](README.md).
 
 ## Ordered and Unordered Lists
 
 ### Ordered Lists
-Classes Today:
-1. CSE 110 Lab
-2. PHIL 27 Lecture
-3. PHIL 27 Discussion
+Priorities this quarter
+1. Continue applying for internships
+2. Attend classes and labs
+3. Practice LeetCode
 
 ### Unordered Lists
-Homeworks:
-- MATH 183
+Classes:
+- CSE 110
 - CSE 105
+- MATH 183
+- PHIL 27
 
 ## Tasks Lists:
-Lab Completion:
-- [x] Part 1. Installing Visual Studio Code and Extensions 
+Current lab progress:
+- [x] Part 1. Installing Visual Studio Code and Extensions
 - [x] Part 2. (Re)Familiarizing Ourselves with Git
 - [ ] Part 3. Using Markdown
